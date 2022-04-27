@@ -54,7 +54,7 @@ public class PlayerAudioController : MonoBehaviour
         print("the fox has jumped");
     }
 
-    // trigger your cherry collection sound here !
+    // trigger your cherry collection sound here
     public void OnCherryCollect() {
         print("the fox has collected a cherry");
     }
